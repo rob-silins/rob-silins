@@ -13,3 +13,4 @@ This is my current skill set:
 <p>For now, I will share my LinkedIn: </p><a href="https://www.linkedin.com/in/robertssilins/" target="blank"><img src="https://www.iconsdb.com/icons/preview/royal-blue/linkedin-6-xxl.png" width="60 height="60"</a>
 
 
+<p>So on 11.10.2020 I deployed my first React app project with a custome domain name - <a href="http://myfirstreactapp.com/" target="blank"> </a>myfirstreactapp.com .</p>
