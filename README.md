@@ -14,4 +14,5 @@ This is my current skill set:
 <p> <a href="https://www.linkedin.com/in/robertssilins/" target="blank"><img src="https://www.iconsdb.com/icons/preview/royal-blue/linkedin-6-xxl.png" width="60 height="60" /></a></p>
 
 
-<p> So on 11.10.2020 I deployed my first React app project with a custome domain name - <a href="http://myfirstreactapp.com/" target="blank"> myfirstreactapp.com</a>.</p>
+<p>So on 11.10.2020 I deployed my first React app project with a custome domain name - <a href="http://myfirstreactapp.com/" target="blank"> myfirstreactapp.com</a>.</p>
+<p>Here is the repository with all the files <a href="https://github.com/rob-silins/todo-react-app" target="blank">rob-silins/todo-react-app</a></p>
