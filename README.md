@@ -10,7 +10,7 @@ This is my current skill set:
 
 
 <p>Currently I'm extremely busy with CODELEX to become a better Software Developer and I'm working on some amazing projects, that I will link here once they are done.</p>
-<p>For now, I will share my LinkedIn: </p><a href="https://www.linkedin.com/in/robertssilins/" target="blank"><img src="https://www.iconsdb.com/icons/preview/royal-blue/linkedin-6-xxl.png" width="60 height="60"</a>
+<p>For now, I will share my LinkedIn: <a href="https://www.linkedin.com/in/robertssilins/" target="blank"><img src="https://www.iconsdb.com/icons/preview/royal-blue/linkedin-6-xxl.png" width="60 height="60"</a></p>
 
 
 <p>So on 11.10.2020 I deployed my first React app project with a custome domain name - <a href="http://myfirstreactapp.com/" target="blank"> </a>myfirstreactapp.com .</p>
