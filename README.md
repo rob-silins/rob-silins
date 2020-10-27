@@ -13,6 +13,7 @@ This is my current skill set:
 <p>For now, I will share my LinkedIn:</p>
 <p> <a href="https://www.linkedin.com/in/robertssilins/" target="blank"><img src="https://www.iconsdb.com/icons/preview/royal-blue/linkedin-6-xxl.png" width="60 height="60" /></a></p>
 
+<p>On 20.10.2020 I submitet a home task for a position a applied to. The task included Azure Functions and Local Storage Emulator, asked to import data, store it and had to be accessible via API Get calls. You can see more in the <a href="https://github.com/rob-silins/hometask-at">Readme</a>.</p>
 
-<p>So on 11.10.2020 I deployed my first React app project with a custome domain name - <a href="http://myfirstreactapp.com/" target="blank"> myfirstreactapp.com</a>.</p>
-<p>Here is the repository with all the files <a href="https://github.com/rob-silins/todo-react-app" target="blank">rob-silins/todo-react-app</a></p>
+<p>So on 11.10.2020 I deployed my first React app project with a custome domain name - <a href="http://myfirstreactapp.com/"> myfirstreactapp.com</a>.</p>
+<p>Here is the repository with all the files <a href="https://github.com/rob-silins/todo-react-app">rob-silins/todo-react-app</a></p>
