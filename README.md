@@ -17,3 +17,6 @@ This is my current skill set:
 
 <p>So on 11.10.2020 I deployed my first React app project with a custome domain name - <a href="http://myfirstreactapp.com/"> myfirstreactapp.com</a>.
 Here is the repository with all the files <a href="https://github.com/rob-silins/todo-react-app">rob-silins/todo-react-app</a></p>
+
+
+[![Spotify](https://spotify-now-playing.rob-silins.vercel.app//api/spotify)](https://open.spotify.com/user/1192691958)
