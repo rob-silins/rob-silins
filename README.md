@@ -2,12 +2,16 @@
 
 This is my current skill set:
 <div>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img height="32" width="32" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102016/untitled-1_115.jpg?itok=JR4ZJKAV" />
-<img height="32" width="32" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/dotnet-sdk/img/dotnet-sdk-stack-220x234.png" />
+<img height="32" width="32" src="https://www.svgrepo.com/show/330319/dot-net.svg" />
+<img height="32" width="32" src="https://www.svgrepo.com/show/353622/c-sharp.svg"/>
+<img height="32" width="32" src="https://www.svgrepo.com/show/354520/visual-studio.svg" />
+<img height="32" width="32" src="https://www.svgrepo.com/show/303372/azure-1-logo.svg"/>
+<img height="32" width="32" src="https://www.svgrepo.com/show/373992/powershell.svg"/>
+<img height="32" width="32" src="https://www.svgrepo.com/show/349419/javascript.svg" />
+<img height="32" width="32" src="https://www.svgrepo.com/show/303205/html-5-logo.svg" />
+<img height="32" width="32" src="https://www.svgrepo.com/show/353623/css-3.svg" />
 </div>
-
+<br>
 <p>On 20.10.2020 I submitet a home task for a position a applied to. The task included Azure Functions and Local Storage Emulator, asked to import data, store it and had to be accessible via API Get calls. You can see more in the <a href="https://github.com/rob-silins/hometask-at">Readme</a>.</p>
 
 <p>I was succesfull with the application and I've been working for the company since November 2020</p>
